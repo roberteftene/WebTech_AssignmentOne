@@ -7,4 +7,4 @@
 - fiecare obiect din `items` este are proprietatile price si quantity. Daca cel putin un element nu respecta formatul se va arunca mesajul `Malformed item`; (0.5 pts)
 - parametrul `position` este valid in relatie cu vectorul items (0.5 pts)
 - se va returna obiectul orderInfo din care s-a eliminat elementul de pe pozitia data (0.5 pts)
-- functia returneaza totalul corect pentru comanda in urma eliminarii elementului de pe pozitia data. (0.5 pts)
+- functia returneaza totalul c  orect pentru comanda in urma eliminarii elementului de pe pozitia data. (0.5 pts)
